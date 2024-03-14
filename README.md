@@ -14,7 +14,7 @@ Depois que o programinha estiver funcionando, tente usar um número randômico e
 
 ## Sobre o código criado
 
-Nesse primeiro código é defenido um valor especifico de forma manual no código. Não tem radomização
+Neste segundo código, o valor é definido randomicamente.
 
 ---
 
